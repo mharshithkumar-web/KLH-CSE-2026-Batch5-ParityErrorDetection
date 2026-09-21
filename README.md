@@ -31,7 +31,7 @@ Digital communication systems transmit data as binary sequences of 0s and 1s. Ex
   * `PARITY_GENRATOR.circ`
   * `PARITY_CHECKER.circ`
 * `/reports` – Contains project presentation slides
-  * `DDCA_Parity_Error_Detection_PPT (4).pptx`
+  * `DDCA_Parity_Error_Detection_PPT.pptx`
 
 ---
 
